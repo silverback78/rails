@@ -1,1 +1,7 @@
 vendor
+dev
+prod
+/build-dev.bat
+/build-prod.bat
+.tmp.drivedownload
+/.htaccess.prod
